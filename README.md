@@ -1,4 +1,4 @@
-# graphql-import-loader
+# graphql-import-webpack-loader
 
 Webpack loader for [`graphql-import`](https://github.com/graphcool/graphql-import)
 
