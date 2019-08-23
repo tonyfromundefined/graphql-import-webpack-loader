@@ -1,5 +1,5 @@
 {
-  "name": "graphql-import-loader",
+  "name": "graphql-import-webpack-loader",
   "version": "1.0.0",
   "main": "dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/graphcool/graphql-import-loader.git"
+    "url": "git+https://github.com/tonyfromundefined/graphql-import-webpack-loader.git"
   },
   "keywords": [
     "graphql",
@@ -19,9 +19,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/graphcool/graphql-import-loader/issues"
+    "url": "https://github.com/tonyfromundefined/graphql-import-webpack-loader/issues"
   },
-  "homepage": "https://github.com/graphcool/graphql-import-loader",
+  "homepage": "https://github.com/tonyfromundefined/graphql-import-webpack-loader",
   "scripts": {
     "prepare": "npm run build",
     "build": "rm -rf dist && tsc -d",
